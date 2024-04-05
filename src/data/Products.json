@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Gigabyte G5 KF i5 12500H/16GB/512GB SSD/RTX4060 8GB/15.6'' 144Hz",
+      "description": "Gain comfort and play in excellent conditions with the Gigabyte G5 laptop! Featuring ultra-performance components, a 144Hz IPS display, backlit Gamer keyboard, and Nahimic audio system, it has everything needed to provide a quality gaming experience on the go. The Gigabyte G5 KF laptop offers high performance and fast operation thanks to its Intel Core i5-12500H processor, 16GB of DDR4 memory, 512GB PCIe M.2 SSD, and GeForce RTX 4060 graphics card with 8GB of dedicated memory",
+      "image": "product01.png",
+      "price": 10990
+    },
+    {
+      "id": 2,
+      "name": "HP ProBook 440 G9 i5-1235U/16GB/256GB SSD",
+      "description": "Gain mobility without sacrificing performance! The HP ProBook 440 G9 i5-1235U laptop is designed for professionals who are often on the move. Built for mobility, it is lightweight, compact, and robust while integrating advanced security features. The HP ProBook 440 G9 laptop is perfect for all common professional needs. With its Intel i5-1235U processor, 16GB of DDR4 memory, and 256GB PCIe M.2 SSD, it provides the speed and power you need to work efficiently.",
+      "image": "product03.png",
+      "price": 10300
+    },
+    {
+      "id": 3,
+      "name": "Asus ZenBook 3 UX390UAK i7-7500U/8GB/512GB SSD",
+      "description": "Le Zenbook 3 nouvelle génération va vite vous sublimer. Plus fin, plus léger, plus solide, plus puissant et tout bonnement sublime, le Zenbook 3 est tout simplement l’ordinateur le plus prestigieux au monde avec des performances sans précédent. Le ASUS Zenbook 3 UX390UAK est doté d’un processeur Intel de 6e génération (Intel Core i7-7500U), de 8 Go de RAM, d’un SSD de 512 Go (M2) et fonctionne sous Windows 11 Professionnel 64 bits.",
+      "image": "product08.png",
+      "price": 10990
+    },
+    {
+      "id": 4,
+      "name": "Acer Nitro 5 AN515-55-50V2 i5 10300H/16GB/512GB SSD/GTX 1650 Ti 4GB/15.6'' 144Hz IPS",
+      "description": "Jouez sans contraintes avec le PC portable Gamer Acer Nitro 5 AN515-55-50V2 Taillé pour la performance, cet élégant PC portable gaming bénéficie de composants performants et offre un divertissement audio/vidéo de qualité. Le PC portable Acer Nitro 5 AN515-55-50V2 offre de superbes performances grâce à son processeur Intel Core i5-10300H, ses 16 Go de mémoire DDR4, son SSD M.2 PCIe de 512 Go et sa puce graphique NVIDIA GeForce GTX 1650Ti.",
+      "image": "product06.png",
+      "price": 6460
+    },
+    {
+      "id": 5,
+      "name": "Apple iPad Mini (2021) 64 Go Wi-Fi Gris",
+      "description": "The Apple iPad Mini (2021) 64GB Wi-Fi in Gray combines compact design with powerful performance. Featuring a stunning 8.3-inch Liquid Retina display, this iPad Mini delivers vibrant colors and crisp details for an immersive viewing experience. Powered by the A15 Bionic chip, it offers blazing-fast performance and smooth multitasking, making it perfect for productivity and entertainment on the go. With 64GB of storage, you'll have ample space to store your apps, photos, and videos.",
+      "image": "product04.png",
+      "price": 1099000
+    },
+    {
+      "id": 6,
+      "name": "Corsair HS50 PRO Stereo Casque de Gaming",
+      "description": "Le Corsair HS50 est un micro-casque Gaming au design soigné, à la qualité de son excellente et au confort incroyable. Son microphone antibruit et son cadre ergonomique offrent des conditions idéales pour des sessions de jeu prolongées. Avec des membranes en néodyme de 50mm, pour les haut-parleurs, et des oreillettes rembourrées, le Corsair HS50 associe à la perfection la qualité et le plaisir. L’idéal pour les joueurs .",
+      "image": "product05.png",
+      "price": 799
+    },
+    {
+      "id": 7,
+      "name": "Ricoh GR III HDF",
+      "description": "Be ready for when your creativity hits with the Ricoh GR III HDF, featuring a Highlight Diffusion Filter and other new features. This compact camera provides superb image quality and portability for travelers and street photographers alike. Outstanding image quality is thanks to the Ricoh GR III's high-resolution, 24.2MP APS-C CMOS sensor and GR ENGINE 6. With reduced camera shake, users can capture crisp, high-quality images in a split second.",
+      "image": "product09.png",
+      "price": 139999
+    },
+    {
+      "id": 8,
+      "name": "The STN-01 Wireless Bluetooth Headphones ",
+      "description": "The STN-01 Wireless Bluetooth Headphones provide an immersive and uninterrupted listening experience, perfect for music enthusiasts and professionals on the go. Equipped with active noise cancellation technology, it allows you to immerse yourself in your favorite music without being disturbed by surrounding noises. Its ergonomic design ensures a comfortable and secure fit, even during extended use.",
+      "image": "product02.png",
+      "price": 139999
+    },
+    {
+      "id": 9,
+      "name": "XIAOMI Redmi 13C - 6.74 - 4GB ROM + 128GB ROM - 50MP – Navy Bleu",
+      "description": "The XIAOMI Redmi 13C combines sleek design with powerful performance, offering a premium experience at an affordable price. With its large 6.74-inch display, you can enjoy immersive visuals and vibrant colors whether you're browsing the web, watching videos, or playing games. Equipped with 4GB of RAM and 128GB of internal storage, the Redmi 13C provides ample space for all your apps, photos, and files, ensuring smooth performance and seamless multitasking.",
+      "image": "product07.png",
+      "price": 139999
+    }
+  ]
+  

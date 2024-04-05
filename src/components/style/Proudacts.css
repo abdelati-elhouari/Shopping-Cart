@@ -1,0 +1,146 @@
+/* body{
+
+    background-color:#fff;
+} */
+.row {
+    --bs-gutter-x: 0 !important;
+    --bs-gutter-y: 0 !important;
+}
+.wrapper{
+
+    /* width: 100%; */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -139px;
+}
+
+
+.card{
+
+    height: 369px !important;
+    width: 282px !important;
+    background-color:#dbd8d8 !important;
+    border-radius: 10px !important;
+    position: relative !important;
+    overflow: hidden !important;
+    cursor: pointer !important;
+    color: #FE4C50 !important;
+    text-align: center!important;
+    border: none !important;
+
+}
+
+.card::before{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    content: "";
+    top:-50%;
+    background-color:#f1ebeb;
+    transform: skewY(345deg);
+    transition:0.7s ease-in;
+  
+}
+
+
+
+.card:hover::before{
+    top:-70%;
+    transform: skewY(390deg);
+}
+
+.card .image{
+    padding: 20px;
+    position: absolute; 
+    width: 100%;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card .image img{
+    max-width: 100%;
+    transition: 0.7s ease-in;
+}
+
+.card:hover .image img{
+
+    width: 80%;
+}
+
+.about-product{
+    padding: 0 3px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    color: #000000 !important;
+    bottom: -50px !important;
+    text-align: center;
+    
+    transition: 0.7s ease-in;
+}
+.about-product h3 ,.about-product h4{
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+
+.card:hover .about-product{
+
+   bottom: 20px !important;
+}
+
+
+.buy-now {
+    
+    color: #fff;
+    background-color: #D31737 !important;
+    border-color: #D31737 !important;
+    /* width: 104px; */
+    margin: 20px 3px 0 3px;
+    padding: 10px;
+}
+.view {
+    
+    color: #fff;
+    background-color: #83f760 !important;
+    border-color: #83f760 !important;
+    /* width: 104px; */
+    margin: 20px 3px 0 3px;
+    padding: 10px;
+}
+.view a{
+    
+    color: #fff;
+    
+    text-decoration: none;
+    margin: 20px 3px 0 3px;
+    padding: 10px;
+}
+
+
+.buy-now:focus{
+    
+    box-shadow: none;
+}
+
+.buy-now:hover ,.view:hover{
+    color: #fff;
+    background-color: #c4bdbd !important;
+    border-color: #c4bdbd !important;
+     
+}
+
+@media (max-width: 991px) {
+    .wrapper{
+        width: 50% !important;
+    }
+}
+@media (max-width:768px) {
+    .wrapper{
+        width: 100% !important;
+    }
+}
